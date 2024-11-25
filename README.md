@@ -28,6 +28,11 @@ Normalizing pixel values using ImageNet's mean and standard deviation.
 
 * HOG + SVM:  85.68% on validation and 84.01% on the test set.
 
+# Individual Contributions
+* CBAM model: Oladri Renuka
+* HOG + SVM: Bodapatla Sindhu Priya
+* Cascade Model: Avula Jhansy
+
 
 # Authors
 Oladri Renuka, Bodapatla Sindhu Priya, Avula Jhansy
